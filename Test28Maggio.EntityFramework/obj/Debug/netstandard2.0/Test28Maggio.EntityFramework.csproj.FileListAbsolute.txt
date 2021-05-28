@@ -1,0 +1,12 @@
+C:\Users\giada.lomasti\source\repos\Test28Maggio\Test28Maggio.EntityFramework\bin\Debug\netstandard2.0\Test28Maggio.EntityFramework.deps.json
+C:\Users\giada.lomasti\source\repos\Test28Maggio\Test28Maggio.EntityFramework\bin\Debug\netstandard2.0\Test28Maggio.EntityFramework.dll
+C:\Users\giada.lomasti\source\repos\Test28Maggio\Test28Maggio.EntityFramework\bin\Debug\netstandard2.0\Test28Maggio.EntityFramework.pdb
+C:\Users\giada.lomasti\source\repos\Test28Maggio\Test28Maggio.EntityFramework\bin\Debug\netstandard2.0\Test28Maggio.Library.dll
+C:\Users\giada.lomasti\source\repos\Test28Maggio\Test28Maggio.EntityFramework\bin\Debug\netstandard2.0\Test28Maggio.Library.pdb
+C:\Users\giada.lomasti\source\repos\Test28Maggio\Test28Maggio.EntityFramework\obj\Debug\netstandard2.0\Test28Maggio.EntityFramework.csprojAssemblyReference.cache
+C:\Users\giada.lomasti\source\repos\Test28Maggio\Test28Maggio.EntityFramework\obj\Debug\netstandard2.0\Test28Maggio.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\giada.lomasti\source\repos\Test28Maggio\Test28Maggio.EntityFramework\obj\Debug\netstandard2.0\Test28Maggio.EntityFramework.AssemblyInfo.cs
+C:\Users\giada.lomasti\source\repos\Test28Maggio\Test28Maggio.EntityFramework\obj\Debug\netstandard2.0\Test28Maggio.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\giada.lomasti\source\repos\Test28Maggio\Test28Maggio.EntityFramework\obj\Debug\netstandard2.0\Test28Maggio.EntityFramework.csproj.CopyComplete
+C:\Users\giada.lomasti\source\repos\Test28Maggio\Test28Maggio.EntityFramework\obj\Debug\netstandard2.0\Test28Maggio.EntityFramework.dll
+C:\Users\giada.lomasti\source\repos\Test28Maggio\Test28Maggio.EntityFramework\obj\Debug\netstandard2.0\Test28Maggio.EntityFramework.pdb

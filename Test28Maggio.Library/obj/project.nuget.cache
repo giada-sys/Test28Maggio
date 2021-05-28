@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "asHYZM7yokUp9y7ewkimSLoGl3BaHQ6dKXP0rqZtiUK5asUf/PPWfTSPr7P1w+rHk2eLOG2BJXKAPR9tjrWSBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\giada.lomasti\\source\\repos\\Test28Maggio\\Test28Maggio.Library\\Test28Maggio.Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\giada.lomasti\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\giada.lomasti\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

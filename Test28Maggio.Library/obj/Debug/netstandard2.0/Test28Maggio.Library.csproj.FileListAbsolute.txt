@@ -1,0 +1,9 @@
+C:\Users\giada.lomasti\source\repos\Test28Maggio\Test28Maggio.Library\bin\Debug\netstandard2.0\Test28Maggio.Library.deps.json
+C:\Users\giada.lomasti\source\repos\Test28Maggio\Test28Maggio.Library\bin\Debug\netstandard2.0\Test28Maggio.Library.dll
+C:\Users\giada.lomasti\source\repos\Test28Maggio\Test28Maggio.Library\bin\Debug\netstandard2.0\Test28Maggio.Library.pdb
+C:\Users\giada.lomasti\source\repos\Test28Maggio\Test28Maggio.Library\obj\Debug\netstandard2.0\Test28Maggio.Library.csprojAssemblyReference.cache
+C:\Users\giada.lomasti\source\repos\Test28Maggio\Test28Maggio.Library\obj\Debug\netstandard2.0\Test28Maggio.Library.AssemblyInfoInputs.cache
+C:\Users\giada.lomasti\source\repos\Test28Maggio\Test28Maggio.Library\obj\Debug\netstandard2.0\Test28Maggio.Library.AssemblyInfo.cs
+C:\Users\giada.lomasti\source\repos\Test28Maggio\Test28Maggio.Library\obj\Debug\netstandard2.0\Test28Maggio.Library.csproj.CoreCompileInputs.cache
+C:\Users\giada.lomasti\source\repos\Test28Maggio\Test28Maggio.Library\obj\Debug\netstandard2.0\Test28Maggio.Library.dll
+C:\Users\giada.lomasti\source\repos\Test28Maggio\Test28Maggio.Library\obj\Debug\netstandard2.0\Test28Maggio.Library.pdb
